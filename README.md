@@ -23,6 +23,10 @@ Predict the liner regression using regr.predict() method and display the result.
 
 ## Program:
 ```
+developed by:lakshmen prashanth R
+reg no: 24007066
+dept: B-tech AIDS
+
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("/content/cars (1).csv")
